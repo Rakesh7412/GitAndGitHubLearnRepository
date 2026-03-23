@@ -18,7 +18,7 @@ public class FirstFile {
 		
 		System.out.println("This line for the second commit...!");
 		
-		System.out.println("This line for the third commit form the eclipse...!");
+		System.out.println("This line for the third commit form the eclipse example...!");
 		
 	}
 }
